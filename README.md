@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2rar
+- 👋 Hi, I’m Turar
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently studying this field
 - 📫 Email me: kametayturar@gmail.com
