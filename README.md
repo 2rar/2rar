@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Turar
-- 👀 I’m interested in Data Science
 - 📫 Email me: kametayturar@gmail.com
 
 <!---
